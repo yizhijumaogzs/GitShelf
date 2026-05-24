@@ -1,0 +1,10 @@
+{
+  "failures": [
+    {
+      "filename": "辩论赛.pdf",
+      "book_id": "辩论赛",
+      "error": "No API token provided. Pass token= or set MINERU_TOKEN.",
+      "failed_at": "2026-05-24T12:31:28Z"
+    }
+  ]
+}
